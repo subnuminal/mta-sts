@@ -1,0 +1,5 @@
+version: STSv1
+mode: none
+mx: mx1.subnuminal.com
+mx: mx2.subnuminal.com
+max_age: 86400
